@@ -1,4 +1,4 @@
-module github.com/GoogleCloudPlatform/artifact-registry-go-tools
+module github.com/Aleromerog/artifact-registry-go-tools
 
 go 1.18
 

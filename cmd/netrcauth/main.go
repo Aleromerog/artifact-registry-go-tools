@@ -22,8 +22,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/GoogleCloudPlatform/artifact-registry-go-tools/pkg/auth"
-	"github.com/GoogleCloudPlatform/artifact-registry-go-tools/pkg/netrc"
+	"github.com/Aleromerog/artifact-registry-go-tools/pkg/auth"
+	"github.com/Aleromerog/artifact-registry-go-tools/pkg/netrc"
 )
 
 const help = `
